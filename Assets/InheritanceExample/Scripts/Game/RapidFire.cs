@@ -6,6 +6,7 @@ public class RapidFire : PowerUpBase
 {
     protected override void OnHit()
     {
-       
+
     }
+
 }
